@@ -49,10 +49,11 @@ I'm a developer and tech enthusiast with a strong focus on autonomous drone tech
 - 🛡️ **Smart Tourist Safety System** — Incident response monitoring platform combining IoT, AI, and secure communication protocols.
 
 
-- 🌐 **GitHub:** [@Heyman04](https://github.com/Heyman04)
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/)
-- 📧 **Email:** *heymanlochan.com*
+## 📫 Connect With Me
 
+- 🌐 **GitHub:** [@Heyman04](https://github.com/Heyman04)
+- 💼 **LinkedIn:** [Heymaa Lochan](https://www.linkedin.com/in/heymaa-lochan/)
+- 📧 **Email:** *heymanlochan.com*
 ---
 
 <p align="left">
