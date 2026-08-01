@@ -16,37 +16,25 @@ I'm a developer and tech enthusiast with a strong focus on autonomous drone tech
 - 🤝 **Open to Collaborating On:** Drone cinematography/tech platforms, cybersecurity open-source tools, and computer vision projects.
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td width="30%" valign="top"><b>Languages & Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Robotics, Drones & IoT</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-      <img src="https://img.shields.io/badge/ArduPilot-ED1C24?style=for-the-badge&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mission_Planner-000000?style=for-the-badge&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Cybersecurity & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Robotics, Drones & IoT**
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-ED1C24?style=for-the-badge&logoColor=white)
+![Mission Planner](https://img.shields.io/badge/Mission_Planner-000000?style=for-the-badge&logoColor=white)
+
+### **Cybersecurity & Cloud**
+![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## 📌 Featured Projects
 
