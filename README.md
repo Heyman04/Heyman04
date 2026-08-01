@@ -47,7 +47,7 @@ I'm a developer and tech enthusiast with a strong focus on autonomous drone tech
 
 ---
 
-## 📊 GitHub Stats
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Heyman04&show_icons=true&theme=radical&hide_border=true" alt="Heyman04's GitHub Stats" />
@@ -55,7 +55,6 @@ I'm a developer and tech enthusiast with a strong focus on autonomous drone tech
 
 ---
 
-## 📫 Connect With Me
 
 - 🌐 **GitHub:** [@Heyman04](https://github.com/Heyman04)
 - 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/)
@@ -66,7 +65,7 @@ I'm a developer and tech enthusiast with a strong focus on autonomous drone tech
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Heyman04&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
-## 📈 Contribution Graph
+ 
 
 <p align="left">
   <a href="https://github.com/HEYMAN04">
