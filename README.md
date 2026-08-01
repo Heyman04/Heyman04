@@ -59,10 +59,17 @@ I'm a developer and tech enthusiast with a strong focus on autonomous drone tech
 
 - 🌐 **GitHub:** [@Heyman04](https://github.com/Heyman04)
 - 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/)
-- 📧 **Email:** *your.email@example.com*
+- 📧 **Email:** *heymanlochan.com*
 
 ---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Heyman04&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+## 📈 Contribution Graph
+
+<p align="left">
+  <a href="https://github.com/HEYMAN04">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HEYMAN04&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" alt="Heymaalochan's GitHub Activity Graph" />
+  </a>
 </p>
