@@ -71,14 +71,103 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
 <img src="https://img.shields.io/badge/Mission%20Planner-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Mission Planner"/>
 
 </p>
-## 📌 Featured Projects
 
-- 🛸 **[Droneman Academy Platform](https://github.com/Heyman04)** — Training portal, resources, and cinematography project showcases for drone enthusiasts.
-- 🌾 **AgriDetect** — Deep learning (CNN) model for automated crop disease detection and soil condition analysis.
-- 🩺 **VitalVoice AI** — AI-powered telemedicine application for smart patient triage and voice consultation.
-- 🛡️ **Smart Tourist Safety System** — Incident response monitoring platform combining IoT, AI, and secure communication protocols.
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
 
+### 🛸 DroneMan Academy
+
+🚁 Drone Learning Platform
+
+📚 Training Resources
+
+🎥 Cinematography
+
+🌍 Community
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+
+</td>
+
+</tr>
+
+<tr>
+<td>
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250"/>
+
+</td>
+
+<td width="50%">
+
+### 🌾 AgriDetect AI
+
+🌱 Crop Disease Detection
+
+🤖 CNN Model
+
+📷 Computer Vision
+
+📊 AI Recommendation
+
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🩺 VitalVoice AI
+
+🎤 Voice Assistant
+
+🧠 AI Healthcare
+
+🏥 Telemedicine
+
+📱 Smart Diagnosis
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+</td>
+
+</tr>
+
+<tr>
+<td>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+
+</td>
+
+<td width="50%">
+
+### 🛡️ Smart Tourist Safety
+
+🌍 Live Tracking
+
+📡 IoT
+
+🤖 AI
+
+🚨 Emergency Alerts
+
+</td>
+
+</tr>
+
+</table>
 ## 📫 Connect With Me
 
 - 🌐 **GitHub:** [@Heyman04](https://github.com/Heyman04)
