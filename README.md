@@ -168,26 +168,29 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
 </tr>
 
 </table>
-<h2 align="center">🌐 Let's Connect</h2>
+
+---
+<h2 align="center">💬 Reach Me</h2>
 
 <p align="center">
+
 <a href="https://github.com/Heyman04">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://img.shields.io/badge/💻_GitHub-Visit_Profile-181717?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<img src="https://img.shields.io/badge/📧_Email-Send_Message-EA4335?style=for-the-badge"/>
 </a>
+
 </p>
 
-<p align="center">
-<b>Let's build something amazing together 🚀</b>
-</p>
----
+
+
+
 <p align="left">
   <a href="https://github.com/HEYMAN04">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HEYMAN04&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" alt="Heymaalochan's GitHub Activity Graph" />
