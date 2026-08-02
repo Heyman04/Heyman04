@@ -60,18 +60,17 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
   <img src="https://skillicons.dev/icons?i=ubuntu,docker" />
 </p>
 
-### 🚁 Robotics & Autonomous Systems
-<p>
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mission%20Planner-1E88E5?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArduPilot-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
+### 🤖 Robotics & Embedded Systems
 
-### **Robotics, Drones & Cybersecurity**
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-ED1C24?style=for-the-badge&logoColor=white)
-![Mission Planner](https://img.shields.io/badge/Mission_Planner-000000?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino IDE"/>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" height="50" alt="ROS"/>
+
+<img src="https://img.shields.io/badge/Mission%20Planner-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Mission Planner"/>
+
+</p>
 
 ## 📌 Featured Projects
 
