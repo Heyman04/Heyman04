@@ -168,11 +168,25 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
 </tr>
 
 </table>
-## 📫 Connect With Me
+<h2 align="center">🌐 Let's Connect</h2>
 
-- 🌐 **GitHub:** [@Heyman04](https://github.com/Heyman04)
-- 💼 **LinkedIn:** [Heymaa Lochan](https://www.linkedin.com/in/heymaa-lochan/)
-- 📧 **Email:** *heymanlochan.com*
+<p align="center">
+<a href="https://github.com/Heyman04">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+</p>
+
+<p align="center">
+<b>Let's build something amazing together 🚀</b>
+</p>
 ---
 <p align="left">
   <a href="https://github.com/HEYMAN04">
