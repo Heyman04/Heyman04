@@ -18,9 +18,53 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
 
 ---
 ## 🛠️ Tech Stack & Tools
+## 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,nodejs,express,nestjs,python,java,fastapi,mongodb,mysql,postgres,firebase,redis,docker,kubernetes,git,github,githubactions,linux,bash,aws,vercel,netlify,vscode,postman,figma,tensorflow,pytorch,opencv&perline=8" />
+### 🚀 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+### ☁️ Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
+</p>
+
+### 🐳 OS & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,docker" />
+</p>
+
+### 🚁 Robotics & Autonomous Systems
+<p>
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission%20Planner-1E88E5?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArduPilot-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ### **Robotics, Drones & Cybersecurity**
