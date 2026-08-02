@@ -194,15 +194,3 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HEYMAN04&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" width="100%" alt="Heymaalochan's GitHub Activity Graph" />
   </a>
 </div>
-
-<div align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
-</div>
