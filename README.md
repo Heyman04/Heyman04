@@ -1,45 +1,33 @@
 <h1 align="left">Hi, I'm Heymaalochan 👋</h1>
 
-- 💼 **Founder / Drone Tech Enthusiast** @ Droneman Academy
-- 🎓 **Computer Science & Engineering Student**
+- 🎓 **Artificial Intelligence And Data Science & Engineering Student**
 - 📍 Tamil Nadu, India
-- 🚁 Passionate about **UAVs, Autonomous Systems (ArduPilot/ROS 2), Cybersecurity, and Applied AI**
+- 💻 Passionate about **Full Stack Development, Artificial Intelligence, Machine Learning, and Modern Web Technologies**
 
 ---
 
 ## 🚀 About Me
 
-I'm a developer and tech enthusiast with a strong focus on autonomous drone technology, robotics, and cybersecurity. I love building systems that bridge software with hardware — from multirotor flight simulations to AI-powered applications for agriculture and healthcare.
+I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, scalable, and user-friendly web applications. I love combining Artificial Intelligence with modern web technologies to solve real-world problems and create impactful digital experiences.
 
-- 🔭 **Currently Working On:** Autonomous UAV flight control integration & ROS 2 robotics node developments.
-- 🌱 **Learning:** Advanced Network Security, Intrusion Detection Systems, and Flutter UI/UX optimization.
-- 🤝 **Open to Collaborating On:** Drone cinematography/tech platforms, cybersecurity open-source tools, and computer vision projects.
+- 🔭 **Currently Working On:** AI-powered web applications, Full Stack projects using React, Node.js, Express.js, and MongoDB.
+- 🌱 **Currently Learning:** Machine Learning, Deep Learning, System Design, Cloud Computing, and Advanced Full Stack Development.
+- 🤝 **Open to Collaborating On:** AI/ML projects, Full Stack web applications, Open Source contributions, and innovative software solutions.
+- 💡 **Interests:** Artificial Intelligence, Machine Learning, Web Development, Cloud Technologies, and Problem Solving.
+- 🎯 **Goal:** To become a skilled AI Engineer and Full Stack Developer while building products that make a real-world impact.
 
 ---
 ## 🛠️ Tech Stack & Tools
 
-### **Languages & Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-### **Design, Database & Cloud**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap,nodejs,express,nestjs,python,java,fastapi,mongodb,mysql,postgres,firebase,redis,docker,kubernetes,git,github,githubactions,linux,bash,aws,vercel,netlify,vscode,postman,figma,tensorflow,pytorch,opencv&perline=8" />
+</p>
 
 ### **Robotics, Drones & Cybersecurity**
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-ED1C24?style=for-the-badge&logoColor=white)
 ![Mission Planner](https://img.shields.io/badge/Mission_Planner-000000?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
-
 
 ## 📌 Featured Projects
 
