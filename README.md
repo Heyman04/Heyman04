@@ -60,16 +60,17 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
   <img src="https://skillicons.dev/icons?i=ubuntu,docker" />
 </p>
 
-## 🤖 Robotics & Embedded Systems
+### 🤖 Robotics & Embedded Systems
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="Arduino"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" height="55" alt="ROS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Mission%20Planner-blue?style=for-the-badge" alt="Mission Planner"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino IDE"/>
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" height="50" alt="ROS"/>
+
+<img src="https://img.shields.io/badge/Mission%20Planner-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Mission Planner"/>
+
 </p>
-
 ## 📌 Featured Projects
 
 - 🛸 **[Droneman Academy Platform](https://github.com/Heyman04)** — Training portal, resources, and cinematography project showcases for drone enthusiasts.
@@ -84,12 +85,6 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
 - 💼 **LinkedIn:** [Heymaa Lochan](https://www.linkedin.com/in/heymaa-lochan/)
 - 📧 **Email:** *heymanlochan.com*
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Heyman04&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
- 
-
 <p align="left">
   <a href="https://github.com/HEYMAN04">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HEYMAN04&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" alt="Heymaalochan's GitHub Activity Graph" />
