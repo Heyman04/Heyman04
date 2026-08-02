@@ -187,3 +187,11 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
 </a>
 
 </p>
+
+## 📊 GitHub Activity
+<div align="center">
+  <a href="https://github.com/Heyman04">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HEYMAN04&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true" width="100%" alt="Heymaalochan's GitHub Activity Graph" />
+  </a>
+</div>
+
