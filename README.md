@@ -60,16 +60,14 @@ I'm a passionate **AI & Full Stack Developer** who enjoys building intelligent, 
   <img src="https://skillicons.dev/icons?i=ubuntu,docker" />
 </p>
 
-### 🤖 Robotics & Embedded Systems
+## 🤖 Robotics & Embedded Systems
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=arduino" height="50" alt="Arduino IDE"/>
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" height="50" alt="ROS"/>
-
-<img src="https://img.shields.io/badge/Mission%20Planner-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Mission Planner"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" height="55" alt="Arduino"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ros.svg" height="55" alt="ROS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Mission%20Planner-blue?style=for-the-badge" alt="Mission Planner"/>
 </p>
 
 ## 📌 Featured Projects
